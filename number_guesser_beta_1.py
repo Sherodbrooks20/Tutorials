@@ -38,6 +38,6 @@ while True:
     else:
         print("Too low")
 
-print("It took" + str(guesses) + "guesses")
+print("It took " + str(guesses) + " guesses")
 
 
